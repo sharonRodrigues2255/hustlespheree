@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "hustlesphere-82ef6",
     "public": "y",
     "ignore": [
       "firebase.json",
